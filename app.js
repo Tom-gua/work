@@ -43,7 +43,13 @@ app.get('/', (request, response) => {
 })
 
 app.get('/cucumber/book', (request, response) => {
-    const path = 'cucumber.html'
+    const path = './html/cucumber.html'
+    sendHtml(path, response)
+    // response.send('index.html')
+})
+
+app.get('/quilt/book', (request, response) => {
+    const path = './html/quilt.html'
     sendHtml(path, response)
     // response.send('index.html')
 })
