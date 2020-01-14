@@ -65,6 +65,9 @@ bottom: 10px;
 .navbar-collapse{
     float: right;
 }
+.marketing .head {
+  padding-top: 26px;
+}
 .marketing h2{
     display: inline-block;
 }
