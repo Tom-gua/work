@@ -42,24 +42,6 @@ app.get('/', (request, response) => {
     // response.send('index.html')
 })
 
-app.get('/maoling', (request, response) => {
-    const path = 'maoling.html'
-    sendHtml(path, response)
-    // response.send('index.html')
-})
-
-app.get('/cucumber/book', (request, response) => {
-    const path = './html/cucumber.html'
-    sendHtml(path, response)
-    // response.send('index.html')
-})
-
-app.get('/quilt/book', (request, response) => {
-    const path = './html/quilt.html'
-    sendHtml(path, response)
-    // response.send('index.html')
-})
-
 // 把逻辑放在单独的函数中, 这样可以方便地调用
 // 指定了默认的 host 和 port, 因为用的是默认参数, 当然可以在调用的时候传其他的值
 const run = (port=3000, host='') => {
