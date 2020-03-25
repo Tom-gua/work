@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b517ef54-ba91-4258-9fd5-6fdc3d49608a" name="Default" comment="第一次提交">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a04c17d7-4130-4d73-9bcc-b44e4edff4f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/APP1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/APP1/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/APP1/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/APP1/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/APP1/Wechat.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,9 +109,10 @@
       <screen x="0" y="23" width="1920" height="980" />
     </state>
     <state x="766" y="146" key="RollbackChangesDialog/0.23.1920.980/1920.23.1680.1027@0.23.1920.980" timestamp="1578992474223" />
-    <state x="560" y="249" key="Vcs.Push.Dialog.v2" timestamp="1578992525748">
-      <screen x="0" y="23" width="1920" height="980" />
+    <state x="490" y="241" key="Vcs.Push.Dialog.v2" timestamp="1585145878982">
+      <screen x="0" y="23" width="1680" height="947" />
     </state>
+    <state x="490" y="241" key="Vcs.Push.Dialog.v2/0.23.1680.947@0.23.1680.947" timestamp="1585145878982" />
     <state x="560" y="249" key="Vcs.Push.Dialog.v2/0.23.1920.980/1920.23.1680.1027@0.23.1920.980" timestamp="1578992525748" />
     <state x="421" y="205" width="837" height="582" key="find.popup" timestamp="1585143974360">
       <screen x="0" y="23" width="1680" height="947" />
